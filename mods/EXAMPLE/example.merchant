@@ -1,16 +1,22 @@
 // Only 1 merchant is allowed per file.
 
-// Merchant Example:
-// <m>"Display Name"</m>
-<m>"Example Merchant"</m>
-
 // Merchant World Position (x,y,z)
 <p>0,0,0</p>
 // Merchant World Rotation, Euler (x,y,z)
 <r>0,0,0</r>
 
-//Merchant visuals (Head-top, Head, Shirt, Pants, Shoes, Accessory)
-<v>1, 0, 1, 1, 1, 0</v>
+// Merchant Cosmetic Example:
+// <c>Head-top,Head,Shirt,Pants,Shoes,Accessory</c>
+<c>1, 0, 1, 1, 1, 0</c>
 
-//Item ID, Reputation Level Required
-<t>21,3</t>
+// Merchant Name Example:
+// <n>"Display Name"</n>
+<n>"Example Merchant"</n>
+
+// Trade Item Example:
+// <t>Item ID,Required Reputation Level</t>
+
+//Trades
+<t>920,0</t>
+<t>921,1</t>
+<t>922,3</t>
