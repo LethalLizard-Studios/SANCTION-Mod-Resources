@@ -4,13 +4,15 @@
 
 // Combine Recipe Example:
 // <c>(Item ID)+(Item ID)=(Result Item ID)</c>
-// Ex. Example Name
-// <c>21+56=11</c>
 
 // Dismantle Recipe Example:
 // <d>(Item ID)+(Item ID)=(Result Item ID)</d>
-// Ex. Scrap Metal
-// <d>24=68</d>
 
 // Add your own recipe using the examples without the '//' comment.
 // You may use the ID's of existing items or modded items.
+
+// Combine Recipes
+<c>920+920=922</c>
+
+// Dismantle Recipes
+<d>920=921</d>
