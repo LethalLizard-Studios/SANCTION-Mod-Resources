@@ -1,1 +1,7 @@
 //Contains all the trades for the Squatting Merchant
+
+<p>0,0,0</p>
+<r>0,0,0</r>
+
+//Item ID, Reputation Level Required
+<t>21,3</t>
