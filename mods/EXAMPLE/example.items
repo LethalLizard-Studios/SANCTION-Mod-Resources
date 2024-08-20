@@ -1,0 +1,11 @@
+// Tip: Avoid existing Item ID's, use the Dev Menu by pressing 'Home' in-game to find ID's using the "give" command.
+
+// New Item Example:
+// <i>Unique Item ID,"Display Name","Texture Path",Item Type,Monetary Value</i>
+
+// Types: Food = 0, Water = 1, Junk = 2, Medical = 3, Quest = 4,
+
+// Items
+<i>920,"Example Item","textures/icons/example_item.png",1,22</i>
+<i>921,"Dismantled Example","textures/icons/example_dismantled_item.png",1,10</i>
+<i>922,"Combined Example","textures/icons/example_combined_item.png",1,30</i>
