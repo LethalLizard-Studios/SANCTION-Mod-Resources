@@ -1,0 +1,8 @@
+//(Numbers are Item ID's, use the Dev Menu by pressing 'Home' in-game to find ID's using the "give" command)
+
+//Combine Recipe Example:
+//<c>21+56=11</c>
+
+//Dismantle Recipe Example:
+//Recipes can use 1 or 2 items in them.
+//<d>24=68</d>
