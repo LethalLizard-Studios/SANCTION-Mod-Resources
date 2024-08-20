@@ -1,9 +1,9 @@
 // Tip: Avoid existing Item ID's, use the Dev Menu by pressing 'Home' in-game to find ID's using the "give" command.
 
 // New Item Example:
-// <i>Unique Item ID,"Display Name","Texture Path",Item Type,Monetary Value</i>
+// <i>Unique Item ID,"Display Name","Texture Path",Item Type ID,Monetary Value</i>
 
-// Types: None = 0, Gun = 1, Meds = 2, Food = 3, Water = 4, Ammo = 5, Attachment = 6, Quest = 7, Filter = 8, Paint = 9, Misc = 10.
+// Types with ID: None = 0, Gun = 1, Meds = 2, Food = 3, Water = 4, Ammo = 5, Attachment = 6, Quest = 7, Filter = 8, Paint = 9, Misc = 10.
 
 // Items
 <i>920,"Example Item","textures/icons/example_item.png",1,22</i>
